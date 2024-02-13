@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio Ernesto Betancourt Melchor</h1>
-<h3 align="center">A passionate programmer from Mexico who only wants some job</h3>
+<h3 align="center">A programmer from Mexico</h3>
 
 - 🔭 I’m currently working on **a Real Estate project**
 
